@@ -1,1 +1,1 @@
-Timer de 5 minutos, da início após apertar o botão "Iniciar".
+Timer de 5 minutos, da início após clicar no botão "Iniciar".
