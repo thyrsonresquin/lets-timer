@@ -7,4 +7,3 @@ para criação de um contador de 5min, inicializando a partir do click no botão
 
 ## Créditos
 [Ricardo Maiostri](https://github.com/maiostri)
-
